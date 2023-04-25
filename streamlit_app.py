@@ -43,7 +43,7 @@ except URLError as e:
 
 # snowfalke connector
 # reamlit.stop()
-streamlit.header("The fruit load list contains")
+streamlit.header("Vieew our Fruit List - Add your Favorites!")
 
 #snowflake related functions
 def get_fruit_load_list():
